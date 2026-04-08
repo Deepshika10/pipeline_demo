@@ -87,6 +87,7 @@ Add the JaCoCo plugin inside the <build> section.
    </plugins>
 </build>
 
+ Experiment 16
 
  2)app.py (webserver code)
 Add the following code:
@@ -117,3 +118,5 @@ EXPOSE 5020
 CMD ["python", "app.py"]
 
  
+Experiment 19
+
